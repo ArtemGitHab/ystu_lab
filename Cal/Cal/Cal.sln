@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cal", "Cal\Cal.csproj", "{00D021C1-1BDD-48BA-8747-A0B4A50ECD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D021C1-1BDD-48BA-8747-A0B4A50ECD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D021C1-1BDD-48BA-8747-A0B4A50ECD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D021C1-1BDD-48BA-8747-A0B4A50ECD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D021C1-1BDD-48BA-8747-A0B4A50ECD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CDFACE7-B976-4F6C-A208-BEA17F4C2DCD}
+	EndGlobalSection
+EndGlobal
