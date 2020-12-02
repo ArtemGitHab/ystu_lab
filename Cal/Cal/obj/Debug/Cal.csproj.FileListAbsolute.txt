@@ -1,0 +1,14 @@
+C:\Users\Art\source\repos\Cal\Cal\bin\Debug\Cal.exe.config
+C:\Users\Art\source\repos\Cal\Cal\bin\Debug\Cal.exe
+C:\Users\Art\source\repos\Cal\Cal\bin\Debug\Cal.pdb
+C:\Users\Art\source\repos\Cal\Cal\obj\Debug\Cal.csprojAssemblyReference.cache
+C:\Users\Art\source\repos\Cal\Cal\obj\Debug\Cal.csproj.CoreCompileInputs.cache
+C:\Users\Art\source\repos\Cal\Cal\obj\Debug\Cal.exe
+C:\Users\Art\source\repos\Cal\Cal\obj\Debug\Cal.pdb
+C:\Users\Art\Desktop\Cal\Cal\bin\Debug\Cal.exe.config
+C:\Users\Art\Desktop\Cal\Cal\bin\Debug\Cal.exe
+C:\Users\Art\Desktop\Cal\Cal\bin\Debug\Cal.pdb
+C:\Users\Art\Desktop\Cal\Cal\obj\Debug\Cal.csprojAssemblyReference.cache
+C:\Users\Art\Desktop\Cal\Cal\obj\Debug\Cal.csproj.CoreCompileInputs.cache
+C:\Users\Art\Desktop\Cal\Cal\obj\Debug\Cal.exe
+C:\Users\Art\Desktop\Cal\Cal\obj\Debug\Cal.pdb
